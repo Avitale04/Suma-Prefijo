@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PasanTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-18T15:17:10" hostname="ARG-20227-N" time="0.003">
+<testsuite name="PasanTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-18T18:41:28" hostname="ARG-20479-N" time="0.356">
   <properties/>
-  <testcase name="autopistaCamiones" classname="PasanTest" time="0.002"/>
-  <testcase name="autopistaAutos" classname="PasanTest" time="0.0"/>
-  <testcase name="autopistaVehiculos" classname="PasanTest" time="0.0"/>
-  <testcase name="autopistaCarros" classname="PasanTest" time="0.0"/>
+  <testcase name="autopistaCamiones" classname="PasanTest" time="0.356"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
